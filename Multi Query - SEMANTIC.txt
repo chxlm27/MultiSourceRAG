@@ -1,0 +1,25 @@
+`I: Multiquery
+	I.1. Semantic Chunking
+		I.1.1. (Question 1)
+			I.1.1.1. Final Aggregated Answer Evaluation Scores: {'context_utilization': 0.7370, 'faithfulness': 1.0000, 'answer_relevancy': 0.9305, 'context_recall': 1.0000}
+			I.1.1.2. Chroma Answer Evaluation Scores: {'context_utilization': 0.7370, 'faithfulness': 1.0000, 'answer_relevancy': 0.9303, 'context_recall': 1.0000}
+			I.1.1.3. Faiss Answer Evaluation Scores: {'context_utilization': 0.7370, 'faithfulness': 1.0000, 'answer_relevancy': 0.9569, 'context_recall': 1.0000}
+			I.1.1.4. Pinecone Answer Evaluation Scores: {'context_utilization': 0.7370, 'faithfulness': 1.0000, 'answer_relevancy': 0.9919, 'context_recall': 1.0000}
+
+		I.1.2. (Question 2)
+			I.1.2.1. Final Aggregated Answer Evaluation Scores: {'context_utilization': 0.7370, 'faithfulness': 1.0000, 'answer_relevancy': 0.9305, 'context_recall': 1.0000}
+			I.1.2.2. Chroma Answer Evaluation Scores: {'context_utilization': 0.7370, 'faithfulness': 1.0000, 'answer_relevancy': 0.9303, 'context_recall': 1.0000}
+			I.1.2.3. Faiss Answer Evaluation Scores: {'context_utilization': 0.7370, 'faithfulness': 1.0000, 'answer_relevancy': 0.9569, 'context_recall': 1.0000}
+			I.1.2.4. Pinecone Answer Evaluation Scores: {'context_utilization': 0.7370, 'faithfulness': 1.0000, 'answer_relevancy': 0.9919, 'context_recall': 1.0000}
+
+		I.1.3. (Question 3)
+			I.1.3.1. Final Aggregated Answer Evaluation Scores: {'context_utilization': 0.5778, 'faithfulness': 0.8000, 'answer_relevancy': 1.0000, 'context_recall': 1.0000}
+			I.1.3.2. Chroma Answer Evaluation Scores: {'context_utilization': 0.5778, 'faithfulness': 0.6000, 'answer_relevancy': 1.0000, 'context_recall': 1.0000}
+			I.1.3.3. Faiss Answer Evaluation Scores: {'context_utilization': 0.5778, 'faithfulness': 0.8000, 'answer_relevancy': 1.0000, 'context_recall': 1.0000}
+			I.1.3.4. Pinecone Answer Evaluation Scores: {'context_utilization': 0.5778, 'faithfulness': 1.0000, 'answer_relevancy': 1.0000, 'context_recall': 1.0000}
+
+		I.1.4. (Question 4)
+			I.1.4.1. Final Aggregated Answer Evaluation Scores: {'context_utilization': 0.6250, 'faithfulness': 0.9143, 'answer_relevancy': 0.9862, 'context_recall': 1.0000}
+			I.1.4.2. Chroma Answer Evaluation Scores: {'context_utilization': 0.6250, 'faithfulness': 1.0000, 'answer_relevancy': 0.9862, 'context_recall': 1.0000}
+			I.1.4.3. Faiss Answer Evaluation Scores: {'context_utilization': 0.6250, 'faithfulness': 1.0000, 'answer_relevancy': 0.9862, 'context_recall': 1.0000}
+			I.1.4.4. Pinecone Answer Evaluation Scores: {'context_utilization': 0.6250, 'faithfulness': 0.7692, 'answer_relevancy': 0.9795, 'context_recall': 1.0000}
