@@ -1,0 +1,12 @@
+Average : 
+
+Single Query RECURSIVE: {'context_utilization': 1.0000, 'faithfulness': 0.9236, 'answer_relevancy': 0.989, 'context_recall': 0.8889} -> 0.950375
+
+Single Query SEMANTIC: {'context_utilization': 0.9727, 'faithfulness': 1.000, 'answer_relevancy': 0.9542, 'context_recall': 1.000}   -> 0.981725
+
+Multi Query RECURSIVE: {'context_utilization': 0.9356, 'faithfulness': 0.8791, 'answer_relevancy': 0.9244, 'context_recall': 1.000}  -> 0.934775
+
+Multi Query SEMANTIC: {'context_utilization': 0.94, 'faithfulness': 0.8928, 'answer_relevancy': 0.9332, 'context_recall': 1.000}     -> 0.9415
+
+
+So, the best one is Single Query Semantic, then Single Query Recursive, then Multi Query Semantic, and the last is Multi Query Recursive.
